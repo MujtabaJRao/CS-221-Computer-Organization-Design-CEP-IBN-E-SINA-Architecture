@@ -78,6 +78,6 @@ By introducing **TOS/NOS hardware buffering**, the design avoids repeated memory
 ---
 
 ## 👑 Author
-Muhammad Ahmed Qazi (CS-24045)
+Muhammad Ahmed Qazi (CS-24045) &
 Mujtaba Jawaid Rao(CS-24047)
 Developed as part of **Computer Organization & Design (CS-221)** coursework.
